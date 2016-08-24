@@ -1,0 +1,1 @@
+C:\projetos\boracurtir\app/views/tipo_estabelecimentos/show.blade.php
