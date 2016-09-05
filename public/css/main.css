@@ -1,4 +1,4 @@
-body{
+#body-defaul{
     background: url(../img/teste-imagem-01.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -30,4 +30,5 @@ body{
 
 .container{
     background-color: white;
+    margin-top: 5px;
 }
